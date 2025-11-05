@@ -1,0 +1,6 @@
+print(f"The result of {15} + {4} is: {15 + 4}")
+print(f"The result of {15} - {4} is: {15 - 4}")
+print(f"The result of {15} * {4} is: {15 * 4}")
+print(f"The result of {15} / {4} is: {15 / 4}")
+print(f"The result of {15} ** {4} is: {15 ** 4}")
+print(f"The result of {15} // {4} is: {15 // 4}")
